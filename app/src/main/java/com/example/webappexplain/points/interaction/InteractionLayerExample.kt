@@ -1,4 +1,4 @@
-package com.example.webappexplain.interaction
+package com.example.webappexplain.points.interaction
 
 import android.widget.Button
 import com.example.webappexplain.dummy.LoadDelegate

@@ -1,4 +1,4 @@
-package com.example.webappexplain.view
+package com.example.webappexplain.points.view
 
 /*
 Фрагменты, обслуживающие широкий функционал могут занять 500+ строк кода, 80+ импортов

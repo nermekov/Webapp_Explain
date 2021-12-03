@@ -1,4 +1,4 @@
-package com.example.webappexplain.view
+package com.example.webappexplain.points.view
 
 import android.os.Bundle
 import android.view.View

@@ -1,4 +1,4 @@
-package com.example.webappexplain.delegate
+package com.example.webappexplain.points.delegate
 
 //1. Когда нет DelegateLayer: Слишком много зависимостей/импортов
 /*

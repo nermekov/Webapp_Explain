@@ -1,4 +1,4 @@
-package com.example.webappexplain.delegate
+package com.example.webappexplain.points.delegate
 
 import com.example.webappexplain.dummy.WebappRepository
 import kotlinx.coroutines.CoroutineScope
